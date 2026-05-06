@@ -1,0 +1,12 @@
+duckdb_file=sales.duckdb
+
+mysql_host=127.0.0.1
+mysql_port=3306
+mysql_user=root
+mysql_password=[Change To Your MySql Server Password]
+mysql_database=sales_project
+
+mongo_host=127.0.0.1
+mongo_port=27017
+mongo_database=sales_db
+mongo_collection=sales_data

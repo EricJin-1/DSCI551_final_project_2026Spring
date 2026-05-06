@@ -1,0 +1,20 @@
+# Source
+csv_file=sales_data.csv
+
+# DuckDB
+duckdb_file=sales.duckdb
+
+# MySQL
+mysql_host=127.0.0.1
+mysql_port=3306
+mysql_user=root
+mysql_password=[Change To Your MySql Server Password]
+mysql_database=sales_project
+mysql_batch_size=5000
+
+# MongoDB
+mongo_host=127.0.0.1
+mongo_port=27017
+mongo_database=sales_db
+mongo_collection=sales_data
+mongo_batch_size=10000

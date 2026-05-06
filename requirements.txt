@@ -1,0 +1,5 @@
+duckdb>=1.0.0
+mysql-connector-python>=8.0.0
+pymongo>=4.0.0
+pandas>=2.0.0
+streamlit>=1.30.0
